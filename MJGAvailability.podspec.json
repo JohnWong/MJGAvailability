@@ -1,7 +1,7 @@
 {
   "name": "MJGAvailability",
   "version": "1.0.0",
-  "summary": "Help checking iOS API availability. 帮助检查iOS API的可用性",
+  "summary": "Help checking iOS API availability.",
   "homepage": "https://github.com/JohnWong/MJGAvailability",
   "description": "Help checking iOS API availability. 帮助检查iOS API的可用性",
   "authors": {
@@ -15,7 +15,7 @@
   "license": "BSD",
   "platforms": {
     "ios": "2.0",
-    "osx": "10.0"
+    "osx": "10.6"
   },
   "source_files": "Source/*.{h,m}"
 }
