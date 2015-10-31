@@ -1,5 +1,5 @@
 # MJGAvailability
-Help checking iOS API availability. 帮助检查iOS API的可用性
+Help checking iOS API availability. 帮助检查iOS API的可用性。来自[https://github.com/mattjgalloway](https://github.com/mattjgalloway/MJGFoundation/blob/master/Source/Utilities/MJGAvailability.h)
 
 ## Usage
 
